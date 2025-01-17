@@ -29,7 +29,7 @@ const projects: IProjectItem[] = [
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/Sohamnayak4/Task-Manager-app",
-    url: "https://task.sohamnayak.tech",
+    url: "https://tasks.sohamnayak.tech",
     tags: ["React.js", "Node.js", "Express", "Tailwind", "Expresss"],
   },
   {
