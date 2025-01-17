@@ -10,7 +10,7 @@ const projects: IProjectItem[] = [
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/Sohamnayak4/ChatApp",
-    url: "https://chat.sohamnayk.tech",
+    url: "https://chat.sohamnayak.tech",
     tags: [
       "React.js",
       "Node.js",
@@ -29,7 +29,7 @@ const projects: IProjectItem[] = [
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/Sohamnayak4/Task-Manager-app",
-    url: "https://task.sohamnayk.tech",
+    url: "https://task.sohamnayak.tech",
     tags: ["React.js", "Node.js", "Express", "Tailwind", "Expresss"],
   },
   {
@@ -41,7 +41,7 @@ const projects: IProjectItem[] = [
     repoType: RepoType.Private,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/sohamnayak4",
-    url: "https://focustube.sohamnayk.tech",
+    url: "https://focustube.sohamnayak.tech",
     tags: ["React.js", "Node.js", "Express", "Tailwind", "Expresss"],
   },
 ];
