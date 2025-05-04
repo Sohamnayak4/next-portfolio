@@ -2,6 +2,23 @@ import { IProjectItem, ProjectType, RepoType } from "@/types";
 
 const projects: IProjectItem[] = [
   {
+    id: "Cold Message Generator",
+    title: "MessageCraft",
+    description:
+      "A cold message generator built with React, Supabase, and Tailwind CSS, designed to help users create personalized and effective outreach messages. It features a responsive and minimal UI, real-time message preview, and dynamic input fields for customizing templates. Supabase handles user authentication and data storage, ensuring a smooth and secure user experience.",
+    icon: "/skills/react.svg",
+    repoType: RepoType.Private,
+    projectType: ProjectType.Personal,
+    githubUrl: "https://github.com/Sohamnayak4/message-craft-flow",
+    url: "https://message-craft-flow.vercel.app/",
+    tags: [
+      "React.js",
+      "Tailwind",
+      "SupaBase",
+      "Stripe",
+    ],
+  },
+  {
     id: "Chat App MERN",
     title: "Chat App",
     description:
