@@ -12,10 +12,10 @@ const Home = () => {
   return (
     <PageBox>
       <HomeSection1 id="hero" />
-      <HomeSection2 id="services" />
       <HomeSection3 id="experiences" />
       <HomeSection4 id="skills" />
       <HomeSection5 id="projects" />
+      <HomeSection2 id="services" />
       <HomeSection6 id="contact" />
     </PageBox>
   );
