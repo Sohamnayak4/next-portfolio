@@ -50,6 +50,18 @@ const projects: IProjectItem[] = [
     tags: ["React.js", "Node.js", "Express", "Tailwind", "Expresss"],
   },
   {
+    id: "This or That",
+    title: "ThisorThat",
+    description:
+      "This ot That is a fun and interactive web app where users are shown two images side by side and asked to vote for their favorite. It's a simple way to gather opinions, run polls, or just engage users in quick visual choices. Ideal for casual voting, design feedback, or just killing time!",
+    icon: "/skills/react.svg",
+    repoType: RepoType.Public,
+    projectType: ProjectType.Personal,
+    githubUrl: "https://github.com/Sohamnayak4/image-duo-vote-now",
+    url: "https://image-duo-vote-now.vercel.app/",
+    tags: ["React.js","Tailwind","SupaBase"],
+  },
+  {
     id: "FocusTube Landing Page",
     title: "FocusTube",
     description:
